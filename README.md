@@ -4,7 +4,7 @@ AI-native claims operations for the $85B U.S. P&C loss-adjustment-expense pool.
 
 A working, full-stack prototype of an AI-powered insurance claim assistant covering Auto, Homeowners, and General Liability. Built to demonstrate how modern LLM tooling, careful PII handling, and a clean adjudication-adjacent UX can compress claims cycle times and reduce LAE without compromising regulatory posture.
 
-> Built by [Kyle Goode](https://github.com/KgoodeMFTA) — former State Farm Auto Injury Claims Team Manager, currently completing an M.S. in FinTech & Analytics at Wake Forest University.
+> Built by [Kerry Goode](https://github.com/KgoodeMFTA) — former State Farm Auto Injury Claims Team Manager, currently completing an M.S. in FinTech & Analytics at Wake Forest University.
 
 ---
 
